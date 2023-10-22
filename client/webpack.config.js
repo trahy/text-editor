@@ -9,9 +9,6 @@ module.exports = () => {
     // entry point for files
     entry: {
       main: './src/js/index.js',
-      // database: './src/js/database.js',
-      // editor: './src/js/editor.js',
-      // header: './src/js/header.js',
       install: './src/js/install.js',
     },
     // output for bundles
@@ -63,7 +60,7 @@ module.exports = () => {
         {
           test: /\.m?js$/,
           exclude: /node_modules/,
-          // babel-loader used to utlise ES6
+          // babel-loader to use ES6
           use: {
             loader: 'babel-loader',
             options: {
