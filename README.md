@@ -49,6 +49,8 @@ This is the general setup when opening the application.
 
 ## Resources
 
+Thanks to [Xandromus](https://github.com/Xandromus) for providing the [starter code](https://github.com/coding-boot-camp/cautious-meme.git).
+
 - [Webpack Documentation](https://webpack.js.org/guides/)
 
 - [Service Workers Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
@@ -59,4 +61,3 @@ This is the general setup when opening the application.
 Please refer to the LICENSE in the repo.
 
 ---
-
